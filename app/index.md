@@ -38,7 +38,6 @@ Slack is a platform for team communication: everything in one place, instantly s
 
 * Every project should have its own channel
 * Set up notifications on your desktop and mobile device to send alerts when your name or other keywords ("lunch", "coffee", etc) are mentioned. A delay in timing for each device will prevent too many alerts going out to all devices unnecessarily.
-* Read more [channel-specific pro-tips](https://docs.google.com/a/centresource.com/document/d/1Cvs0Pe4Ywk0P2AVLfPMxRTHbYbBstt0KvNdodtcy25I/edit?usp=sharing)
 
 
 ### IM (Lampo Jabber)
