@@ -28,3 +28,16 @@ dl {
     margin: 0;
   }
 }
+
+ol.description, ul.description {
+  margin-left: 1em;
+}
+
+h4 + ul {
+  list-style-type: disc;
+  margin: 0.5em 2em;
+  padding-left: 1em;
+  li {
+    margin: 0.5em 0;
+  }
+}
